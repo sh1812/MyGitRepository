@@ -9,6 +9,9 @@ class HelloGit{
 		HelloGit obj=new HelloGit();
 		obj.helloGit();
 		}
+		void myBigMethod(){
 
+		Sysout("Has method implementation");
+		}
 
 }
