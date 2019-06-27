@@ -10,7 +10,7 @@ class HelloGit{
 		HelloGit.helloGit();
 
 		}
-		void myBigMethod(){
+		public static void myBigMethod(){
 
 		Sysout("Has method implementation");
 		}
